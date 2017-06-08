@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.lochbridge.oath</groupId>
     <artifactId>oath-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>oath-otp-keyprovisioning</artifactId>
   <name>OATH OTP Key Provisioning</name>
@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.lochbridge.oath</groupId>
             <artifactId>oath-otp</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
