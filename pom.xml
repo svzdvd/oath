@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>OATH Project</name>
-	<url>https://github.com/johnnymongiat/oath</url>
+	<url>https://github.com/svzdvd/oath</url>
 	<description>
         OATH provides components for building one-time password authentication systems.
     </description>
@@ -29,19 +29,19 @@
 	</developers>
 	
     <scm>
-        <connection>scm:git:https://github.com/johnnymongiat/oath.git</connection>
-        <developerConnection>scm:git:https://github.com/johnnymongiat/oath.git</developerConnection>
-        <url>https://github.com/johnnymongiat/oath.git</url>
+        <connection>scm:git:https://github.com/svzdvd/oath.git</connection>
+        <developerConnection>scm:git:https://github.com/svzdvd/oath.git</developerConnection>
+        <url>https://github.com/svzdvd/oath.git</url>
     </scm>
     
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/johnnymongiat/oath/issues</url>
+        <url>https://github.com/svzdvd/oath/issues</url>
     </issueManagement>
     
     <ciManagement>
         <system>Travis CI</system>
-        <url>https://travis-ci.org/johnnymongiat/oath</url>
+        <url>https://travis-ci.org/svzdvd/oath</url>
     </ciManagement>
     
     <licenses>
