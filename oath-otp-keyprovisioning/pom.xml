@@ -10,7 +10,7 @@
   <description>A module for providing OTP key provisioning support.</description>
 
     <properties>
-        <com.google.zxing.version>3.1.0</com.google.zxing.version>
+        <com.google.zxing.version>3.3.0</com.google.zxing.version>
     </properties>
 
     <dependencies>
