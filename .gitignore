@@ -1,6 +1,11 @@
-#Maven-specific
+# Maven
 target
-#Eclipse-specific
+
+# Eclipse
 .settings/
 .classpath
 .project
+
+# Intellij
+.idea
+*.iml
